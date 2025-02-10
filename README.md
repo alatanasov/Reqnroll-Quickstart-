@@ -1,4 +1,3 @@
 # Reqnroll Quickstart Guide Sample Application
 
-This repository contains the starting point with added next steps for the application that is used for the [Reqnroll Quickstart Tutorial](https://go.reqnroll.net/quickstart).
-
+This repository contains the completed Reqnroll quickstart application with added next steps that are part of the documentation: https://docs.reqnroll.net/latest/quickstart/index.html#
